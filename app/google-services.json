@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790519624097",
+    "project_id": "ads-config-97daa",
+    "storage_bucket": "ads-config-97daa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790519624097:android:036d82f8a92cc8b3b09be0",
+        "android_client_info": {
+          "package_name": "com.heaven.adsconfig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHy-aslczgH4SbYbp85XPFWpFR6gHabOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
